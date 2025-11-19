@@ -1,0 +1,15 @@
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\bin\Debug\net9.0\BlogApp.Infrastructure.deps.json
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\bin\Debug\net9.0\BlogApp.Infrastructure.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\bin\Debug\net9.0\BlogApp.Infrastructure.pdb
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\bin\Debug\net9.0\BlogApp.Core.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\bin\Debug\net9.0\BlogApp.Core.pdb
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.AssemblyInfo.cs
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp..7AC54645.Up2Date
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\refint\BlogApp.Infrastructure.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\BlogApp.Infrastructure.pdb
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Infrastructure\obj\Debug\net9.0\ref\BlogApp.Infrastructure.dll
