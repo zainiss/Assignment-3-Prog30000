@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H64wgdFu284=",
+  "dgSpecHash": "6/qJ3Yzb42s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zaraj\\Desktop\\school\\Sheridan Year 3 sem 1\\Enterprise Software Systems\\Assignments\\Assignment 3\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\zaraj\\Desktop\\school\\Sheridan Year 3 sem 1\\Enterprise Software Systems\\Assignments\\A3fix\\Assignment-3-Prog30000\\BlogApp\\BlogApp.Core\\BlogApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaraj\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

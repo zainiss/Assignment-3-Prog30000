@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMO20/Gn50Y=",
+  "dgSpecHash": "OxCmp4HGrJQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zaraj\\Desktop\\school\\Sheridan Year 3 sem 1\\Enterprise Software Systems\\Assignments\\Assignment 3\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
+  "projectFilePath": "C:\\Users\\zaraj\\Desktop\\school\\Sheridan Year 3 sem 1\\Enterprise Software Systems\\Assignments\\A3fix\\Assignment-3-Prog30000\\BlogApp\\BlogApp.API\\BlogApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaraj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\zaraj\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\10.0.0\\microsoft.aspnetcore.jsonpatch.10.0.0.nupkg.sha512",

@@ -11,3 +11,16 @@ C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\
 C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Core\obj\Debug\net9.0\ref\BlogApp.Core.dll
 C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.sourcelink.json
 C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\Assignment 3\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.csproj.AssemblyReference.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\bin\Debug\net9.0\BlogApp.Core.deps.json
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\bin\Debug\net9.0\BlogApp.Core.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\bin\Debug\net9.0\BlogApp.Core.pdb
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.csproj.AssemblyReference.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.AssemblyInfoInputs.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.AssemblyInfo.cs
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.sourcelink.json
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\refint\BlogApp.Core.dll
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\BlogApp.Core.pdb
+C:\Users\zaraj\Desktop\school\Sheridan Year 3 sem 1\Enterprise Software Systems\Assignments\A3fix\Assignment-3-Prog30000\BlogApp\BlogApp.Core\obj\Debug\net9.0\ref\BlogApp.Core.dll
