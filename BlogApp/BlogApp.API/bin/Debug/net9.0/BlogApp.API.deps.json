@@ -839,6 +839,9 @@
       },
       "System.Threading.Channels/7.0.0": {},
       "BlogApp.Core/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
         "runtime": {
           "BlogApp.Core.dll": {
             "assemblyVersion": "1.0.0.0",

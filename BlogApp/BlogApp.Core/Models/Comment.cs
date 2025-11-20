@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace BlogApp.Core.Models
 {
@@ -27,8 +28,7 @@ namespace BlogApp.Core.Models
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
 
-        [Required] //made required since a comment can't be made without a post, 
-                    //this is to enforce the relationship rules on developer(s).
+        [JsonIgnore] // Ignore this property for postman
         public Post? OriginPost {get; set;}
 
     }
