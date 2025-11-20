@@ -40,7 +40,7 @@ namespace BlogApp.API.Controllers
 
         // POST: api/posts
         [HttpPost]
-        public async Task<IActionResult> Create(Post post)
+        public async Task<IActionResult> Create([FromBody] Post post)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -51,7 +51,7 @@ namespace BlogApp.API.Controllers
 
         // PUT: api/posts/{id}
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, Post post)
+        public async Task<IActionResult> Update(int id, [FromBody] Post post)
         {
             if (id != post.Id)
                 return BadRequest("ID in URL does not match ID in body.");
